@@ -29,5 +29,7 @@
 * How-Tos 
 
  * [Instructables #1](http://www.instructables.com/id/LED-Earrings/)
+ 
+ * [sculptures](http://eirikbrandal.com/)
 
 
